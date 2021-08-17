@@ -1,2 +1,2 @@
-#Following an RPG turtorial
+Following an RPG turtorial
 
